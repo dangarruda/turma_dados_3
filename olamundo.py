@@ -9,4 +9,8 @@ if (idade >= 18):
 else:
     print('você é menor de idade')
 
+for i in range(1 , idade+1):
+    print(i)
+
+
 
